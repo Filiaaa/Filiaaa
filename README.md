@@ -4,7 +4,7 @@
 
 I've been working with Unity for about 7 years. My latest project, *The Ballad of a True Thug*, was built with me as the sole programmer, from prototype to release on Steam, itch.io and VK. I also write systems code in C++ and Go.
 
-📄 [Resume (PDF)]([https://github.com/YOUR_USERNAME/resume/blob/main/Timofey_Filichev_CV.pdf](https://github.com/Filiaaa/resume/blob/main/CV.pdf))
+📄 [Resume (PDF)](https://github.com/Filiaaa/resume/blob/main/CV.pdf)
 
 ## 🎮 Shipped game
 
